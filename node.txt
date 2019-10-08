@@ -15,7 +15,7 @@ ssr://ejkyMDAyLnppb25ub2RlLmNvbToxMTk4MTpvcmlnaW46YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbG
 # *优选*HK|HGC_Hong Kong_9101
 ssr://ejkxMDEuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjM2NzExOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpSVzlaZDBsVU1FMU5kM0oyVVhkVU53Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9S3VTOG1PbUFpU3BJUzN4SVIwTmZTRzl1WnlCTGIyNW5Yemt4TURFJmdyb3VwPVNrRkRTMWxPUlZST1Uwdw
 
-# 💥*优选*HK|独占HGC专线_Hong Kong_VIP-01
+# *优选*HK|独占HGC专线_Hong Kong_VIP-01
 ss://Y2hhY2hhMjAtaWV0ZjpmZmZ5dUBoay5pZXBsLWhnYzIuY2NkZG5zLm9ubGluZToxMzExNg
 
 # 普通|HK|AWS-Hong Kong_0105
