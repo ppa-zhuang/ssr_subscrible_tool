@@ -1,5 +1,29 @@
 # 节点列表
 
 * SSRR
-# 🇯🇵日本GMO-中继
-ssr://emFvemh1YW5nLmJpdWJpdWJpdS5hcnQ6OTgyOmF1dGhfYWVzMTI4X3NoYTE6cmM0LW1kNTp0bHMxLjJfdGlja2V0X2F1dGg6WVdNelkycDAvP29iZnNwYXJhbT1NakUxTlRFek1qVXlNUzVrYjNkdWJHOWhaQzUzYVc1a2IzZHpkWEJrWVhSbExtTnZiUSZwcm90b3BhcmFtPU16STFNakU2ZFdKb2MzVnhkVEJ6YncmcmVtYXJrcz01cGVsNXB5c1IwMVBMZVM0cmVlN3B3Jmdyb3VwPVNrRkRTMWxPUlZST1Uwdw
+# 节点列表
+
+* SSRR
+# 🇭🇰Microsoft Azure (Port:3600)
+ssr://cm9oaS5uYmNsb3Vkcy5jbzozNjAwOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjA6cGxhaW46Ym1WNGFYUmhiR3g1Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09TkRFeU16UTRORFU2TWpaak9EQmtaREk0T1dZeU5HRTVNUSZyZW1hcmtzPThKLUhyZkNmaDdCTmFXTnliM052Wm5RZ1FYcDFjbVVnS0ZCdmNuUTZNell3TUNrJmdyb3VwPVNrRkRTMWxPUlZST1Uwdw
+
+# 🇭🇰Microsoft Azure (Port:3607)
+ssr://cm9oaS5uYmNsb3Vkcy5jbzozNjA3OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjA6cGxhaW46Ym1WNGFYUmhiR3g1Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09TkRFeU16UTRORFU2TWpaak9EQmtaREk0T1dZeU5HRTVNUSZyZW1hcmtzPThKLUhyZkNmaDdCTmFXTnliM052Wm5RZ1FYcDFjbVVnS0ZCdmNuUTZNell3TnlrJmdyb3VwPVNrRkRTMWxPUlZST1Uwdw
+
+# CN-HK 港寬頻 HKBN NC
+https://OTc5NDE4MjYwOjBiMTI2NGE0ODNANzk3NnNqZGNxLmhrLWhrYm4uZGF0YXBvcnQueHl6OjQ0Mw?peer=7976sjdcq.hk-hkbn.dataport.xyz#CN-HK%20%E6%B8%AF%E5%AF%AC%E9%A0%BB%20HKBN%20NC
+
+# CN-HK HGC ABD 1
+https://OTc5NDE4MjYwOjBiMTI2NGE0ODNAaGdjMS5oa2ctYWJkLmRhdGFwb3J0Lnh5ejoyMTQ0Mw?peer=hgc1.hkg-abd.dataport.xyz#CN-HK%20HGC%20ABD%201
+
+# CN-US 億安 EONS HE1
+https://OTc5NDE4MjYwOjBiMTI2NGE0ODNAaGUxLnNqYy1rY2QudHJhZGV3aW5kLmxpbms6MTM0NDM?peer=he1.sjc-kcd.tradewind.link#CN-US%20%E5%84%84%E5%AE%89%20EONS%20HE1
+
+# CN-TW TFN 1
+https://OTc5NDE4MjYwOjBiMTI2NGE0ODNAdGZuMS50cGUta2NkLnRyYWRld2luZC5saW5rOjIwNDQz?peer=tfn1.tpe-kcd.tradewind.link#CN-TW%20TFN%201
+
+# CH-HK 阿里雲 AliCloud
+https://OTc5NDE4MjYwOjBiMTI2NGE0ODNAOG5zeDg2c3R6LmhrLWFsaS50cmFkZXdpbmQubGluazo0NDM?peer=8nsx86stz.hk-ali.tradewind.link#CH-HK%20%E9%98%BF%E9%87%8C%E9%9B%B2%20AliCloud%2001
+
+# Alien - HK (Vmess备用)
+vmess://YXV0bzozMDI0ZDc3MS0yMjJhLTRkMmMtODIyOS04MjliM2EzNjc0ZTBAeXk0LmR1Y2tkbnMub3JnOjQ0Mw?remarks=Alien%20-%20HK%20(Vmess%E5%A4%87%E7%94%A8)&obfsParam=yy4.duckdns.org&path=/ray&obfs=websocket&tls=1&peer=yy4.duckdns.org&allowInsecure=1&mux=1
