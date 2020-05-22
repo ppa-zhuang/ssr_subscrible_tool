@@ -7,11 +7,5 @@
 # 🇭🇰Microsoft Azure (Port:3600)
 ssr://cm9oaS5uYmNsb3Vkcy5jbzozNjAwOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjA6cGxhaW46Ym1WNGFYUmhiR3g1Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09TkRFeU16UTRORFU2TWpaak9EQmtaREk0T1dZeU5HRTVNUSZyZW1hcmtzPThKLUhyZkNmaDdCTmFXTnliM052Wm5RZ1FYcDFjbVVnS0ZCdmNuUTZNell3TUNrJmdyb3VwPVNrRkRTMWxPUlZST1Uwdw
 
-# 🇭🇰Microsoft Azure (Port:3607)
-ssr://cm9oaS5uYmNsb3Vkcy5jbzozNjA3OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjA6cGxhaW46Ym1WNGFYUmhiR3g1Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09TkRFeU16UTRORFU2TWpaak9EQmtaREk0T1dZeU5HRTVNUSZyZW1hcmtzPThKLUhyZkNmaDdCTmFXTnliM052Wm5RZ1FYcDFjbVVnS0ZCdmNuUTZNell3TnlrJmdyb3VwPVNrRkRTMWxPUlZST1Uwdw
-
-# CN-HK 港寬頻 HKBN NC
-https://OTc5NDE4MjYwOjBiMTI2NGE0ODNANzk3NnNqZGNxLmhrLWhrYm4uZGF0YXBvcnQueHl6OjQ0Mw?peer=7976sjdcq.hk-hkbn.dataport.xyz#CN-HK%20%E6%B8%AF%E5%AF%AC%E9%A0%BB%20HKBN%20NC
-
 # Alien - HK (Vmess备用)
 vmess://YXV0bzozMDI0ZDc3MS0yMjJhLTRkMmMtODIyOS04MjliM2EzNjc0ZTBAeXk0LmR1Y2tkbnMub3JnOjQ0Mw?remarks=Alien%20-%20HK%20(Vmess%E5%A4%87%E7%94%A8)&obfsParam=yy4.duckdns.org&path=/ray&obfs=websocket&tls=1&peer=yy4.duckdns.org&allowInsecure=1&mux=1
