@@ -1,8 +1,32 @@
 # 节点列表
 
 * SSRR
-# 🇭🇰Microsoft Azure (Port:3600)
-ssr://cm9oaS5uYmNsb3Vkcy5jbzozNjAwOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjA6cGxhaW46Ym1WNGFYUmhiR3g1Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09TkRFeU16UTRORFU2TWpaak9EQmtaREk0T1dZeU5HRTVNUSZyZW1hcmtzPThKLUhyZkNmaDdCTmFXTnliM052Wm5RZ1FYcDFjbVVnS0ZCdmNuUTZNell3TUNrJmdyb3VwPVNrRkRTMWxPUlZST1Uwdw
+# 🇭🇰Kirino HK(Port:3600)
+ssr://cm9oaS5uYmNsb3Vkcy5jbzozNjAwOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjA6cGxhaW46Ym1WNGFYUmhiR3g1Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09TkRFeU16UTRORFU2TWpaak9EQmtaREk0T1dZeU5HRTVNUSZyZW1hcmtzPThKLUhyZkNmaDdCTGFYSnBibThnU0Vzb1VHOXlkRG96TmpBd0tRJmdyb3VwPVNrRkRTMWxPUlZST1Uwdw
 
-# Alien - HK (Vmess备用)
+# 🇭🇰Microsoft Azure HK(Port:3607)
+ssr://cm9oaS5uYmNsb3Vkcy5jbzozNjA3OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjA6cGxhaW46Ym1WNGFYUmhiR3g1Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09TkRFeU16UTRORFU2TWpaak9EQmtaREk0T1dZeU5HRTVNUSZyZW1hcmtzPThKLUhyZkNmaDdCTmFXTnliM052Wm5RZ1FYcDFjbVVnU0Vzb1VHOXlkRG96TmpBM0tRJmdyb3VwPVNrRkRTMWxPUlZST1Uwdw
+
+# 🇭🇰CN-HK 港寬頻 HKBN NC
+https://OTc5NDE4MjYwOjBiMTI2NGE0ODNANzk3NnNqZGNxLmhrLWhrYm4uZGF0YXBvcnQueHl6OjQ0Mw?peer=7976sjdcq.hk-hkbn.dataport.xyz#CN-HK%20%E6%B8%AF%E5%AF%AC%E9%A0%BB%20HKBN%20NC
+
+# 🇭🇰CN-US 億安 EONS HE1
+https://OTc5NDE4MjYwOjBiMTI2NGE0ODNAaGUxLnNqYy1rY2QudHJhZGV3aW5kLmxpbms6MTM0NDM?peer=he1.sjc-kcd.tradewind.link#CN-US%20%E5%84%84%E5%AE%89%20EONS%20HE1
+
+# 🇭🇰NKG-HKG ABD HGC 1
+https://OTc5NDE4MjYwOjBiMTI2NGE0ODNAaGdjMS5oa2ctYWJkLmRhdGFwb3J0Lnh5ejoyMTQ0Mw?peer=hgc1.hkg-abd.dataport.xyz#NKG-HKG%20ABD%20HGC%201
+
+# 🇭🇰SHA-HKG ABD HGC 2
+https://OTc5NDE4MjYwOjBiMTI2NGE0ODNAaGdjMi5oa2ctYWJkLmRhdGFwb3J0Lnh5ejoyMzQ0Mw?peer=hgc2.hkg-abd.dataport.xyz#SHA-HKG%20ABD%20HGC2
+
+# 🇨🇳CN-TW TFN 1
+https://OTc5NDE4MjYwOjBiMTI2NGE0ODNAdGZuMS50cGUta2NkLnRyYWRld2luZC5saW5rOjIwNDQz?peer=tfn1.tpe-kcd.tradewind.link#CN-TW%20TFN%201
+
+# 🇯🇵SHA-ITM KGY JP 1
+https://OTc5NDE4MjYwOjBiMTI2NGE0ODNAanAxLml0bS1rZ3kudHJhZGV3aW5kLmxpbms6MjU0NDM?peer=jp1.itm-kgy.tradewind.link#%F0%9F%87%AF%F0%9F%87%B5SHA-ITM%20KGY%20JP%201
+
+# 🇭🇰CH-HK 阿里雲 AliCloud
+https://OTc5NDE4MjYwOjBiMTI2NGE0ODNAOG5zeDg2c3R6LmhrLWFsaS50cmFkZXdpbmQubGluazo0NDM?peer=8nsx86stz.hk-ali.tradewind.link#CH-HK%20%E9%98%BF%E9%87%8C%E9%9B%B2%20AliCloud%2001
+
+# 🇭🇰Alien - HK (Vmess备用)
 vmess://YXV0bzozMDI0ZDc3MS0yMjJhLTRkMmMtODIyOS04MjliM2EzNjc0ZTBAeXk0LmR1Y2tkbnMub3JnOjQ0Mw?remarks=Alien%20-%20HK%20(Vmess%E5%A4%87%E7%94%A8)&obfsParam=yy4.duckdns.org&path=/ray&obfs=websocket&tls=1&peer=yy4.duckdns.org&allowInsecure=1&mux=1
